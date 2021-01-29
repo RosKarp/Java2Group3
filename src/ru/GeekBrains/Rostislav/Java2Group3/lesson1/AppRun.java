@@ -7,7 +7,7 @@ public class AppRun {
     public static void main(String[] args) {
         Competition service = new Competition();
         System.out.println("Skill test.");
-        /*System.out.println();*/
+        System.out.println();
         service.competitionWithoutObstaclesImpl();
         System.out.println();
         System.out.println();
